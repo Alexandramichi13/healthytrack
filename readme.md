@@ -16,4 +16,4 @@ HealthyTrack es una aplicación de escritorio que permite llevar un registro de 
 1. Ejecutar "crear_db.py" para generar la base de datos.
 2. Luego abrir "main.py" para iniciar la aplicación.
 
->>>>>> Michelle Palma
+>Michelle Palma
